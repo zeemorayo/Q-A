@@ -477,5 +477,3 @@ var quiz = {
   }
   jsq.changeQuestion(-1);
   });
-  resultDiv.innerHTML += '<button id="restart">Restart Quiz</button>';
-  document.getElementById('restart').addEventListener('click', this.restartQuiz.bind(this));
