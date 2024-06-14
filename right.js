@@ -12,7 +12,7 @@ var quiz = {
   "d": "Cancer"
   }
   ],
-  "answer": "A car crash ",
+  "answer": "A car crash",
   "score": 0,
   "status": ""
   },
@@ -98,7 +98,7 @@ var quiz = {
   "options": [
   {
   "a": "Mickey Mouse",
-  "b": "Snow white",
+  "b": "Snow White",
   "c": "Cinderella",
   "d": "The Lion King"
   }
@@ -373,7 +373,7 @@ var quiz = {
   "d": "Cardi and friends"
   }
   ],
-  "answer": "Love an HipHop",
+  "answer": "Love and HipHop",
   "score": 0,
   "status": ""
   }
